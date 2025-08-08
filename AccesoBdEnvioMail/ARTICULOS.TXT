@@ -1,0 +1,3 @@
+fecha;codart;cent;niv1;niv2;niv3;niv4;niv5;niv6;codprov;dept;descripcion;tva;bto;codatri;nomatri;etat;artqual;artdcre;m.stock;codatrivta;nomatrivta;rni
+08/08/2025;541339;;0005;0590;5905;5928;0003;0013;026748;01;PLATO POSTRE NUDE 21CM|;1;0006;70;PERMANENTE PROPIO;A;IMP;26/04/2025;0; ; ;4
+08/08/2025;702596;;0014;0014;0486;0003;0001;0001;010886;02;DVD. SHREK TERCERO;1;0001;60;LOYALTY;F;NOR;26/04/2009;0; ; ;0
